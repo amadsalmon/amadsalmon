@@ -59,4 +59,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amadsalmon&" alt="amadsalmon" /></p>
 
 
-_Generated with the help of [rahuldkjain's GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)._
+_Inspired by [rahuldkjain's GitHub Profile.](https://github.com/rahuldkjain)._
