@@ -10,35 +10,35 @@
 <h3 align="center">Languages:</h3>
 <p align="center"> 
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank"> <img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=000000" alt="java" width="40" height="40"/> </a> 
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=000000" alt="javascript" width="40" height="40"/> </a> 
   <!-- Swift -->
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://icongr.am/devicon/swift-plain.svg?size=128&color=currentColor" alt="swift" width="40" height="40"/> </a> 
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://icongr.am/devicon/swift-plain.svg?size=128&color=000000" alt="swift" width="40" height="40"/> </a> 
   <!-- PHP -->
-  <a href="https://www.php.net" target="_blank"> <img src="https://icongr.am/devicon/php-plain.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://icongr.am/devicon/php-plain.svg?size=128&color=000000" alt="php" width="40" height="40"/> </a>
   <!-- React -->
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/simple/react.svg?size=128&color=000000" alt="react" width="40" height="40"/> </a> 
   <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=000000" alt="html5" width="40" height="40"/> </a> 
   <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=000000" alt="css3" width="40" height="40"/> </a> 
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://icongr.am/devicon/c-plain.svg?size=128&color=currentColor" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://icongr.am/devicon/c-plain.svg?size=128&color=000000" alt="c" width="40" height="40"/> </a> 
  </p> 
  
 <h3 align="center">Tools:</h3>
 <p align="center">  
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=000000" alt="mysql" width="40" height="40"/> </a> 
   <!-- Oracle -->
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/> </a>  
+  <a href="https://www.oracle.com/" target="_blank"> <img src="https://icongr.am/simple/oracle.svg?size=128&color=000000" alt="oracle" width="40" height="40"/> </a>  
   <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://icongr.am/simple/firebase.svg?size=128&color=000000" alt="firebase" width="40" height="40"/> </a>
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://icongr.am/simple/git.svg?size=128&color=000000" alt="git" width="40" height="40"/> </a> 
   <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=currentColor" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=000000" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="center">Connect with me:</h3>
