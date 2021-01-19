@@ -2,6 +2,14 @@
 <h3 align="center">A passionate developer from France</h3>
 
 <p align="center"> 
+  🔭 I’m currently looking for a software engineering or web development internship starting May 2021
+  <br>
+  🤝 I’m looking to collaborate on any open-source project
+  <br>
+  💬 Ask me about JavaScript, HTML & CSS, and Swift
+  <br>
+  🧪 Deepening my knowledge in ReactJS
+  <br>
   👨‍💻 All of my projects are available at <a href="https://amadsalmon.github.io/">amadsalmon.github.io</a> <i>(coming soon)</i>  
   <br>
   📫 How to reach me <b>amad.salmon@icloud.com</b>
