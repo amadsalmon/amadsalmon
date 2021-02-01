@@ -12,7 +12,7 @@
   <br>
   👨‍💻 All of my projects are available at <a href="https://amadsalmon.github.io/">amadsalmon.github.io</a> <i>(coming soon)</i>  
   <br>
-  📫 How to reach me <b>amad.salmon@icloud.com</b>
+  📫 How to reach me: <a href="mailto:amad.salmon@icloud.com?subject=Hey%20Amad!" target="_blank">amad.salmon@icloud.com</a>
 </p>
 
 <h3 align="center">Languages:</h3>
