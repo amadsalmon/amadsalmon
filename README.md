@@ -2,35 +2,38 @@
 <h3 align="center">A passionate developer from France</h3>
 
 <p align="center"> 
-  🔭 I’m currently looking for a software engineering or web development internship starting May 2021
+  👨🏻‍🎓 Currently studying at la Sapienza University in Rome, Italy 🇮🇹 
   <br>
-  🤝 I’m looking to collaborate on any open-source project
+  👨🏻‍💻 Amazon intern in Barcelona, Spain 🇪🇸
+  <br>
+  🤝 I'd be happy to collaborate on any open-source project
   <br>
   💬 Ask me about JavaScript, HTML & CSS, and Swift
   <br>
-  🧪 Deepening my knowledge in ReactJS
+  🧪 Deepening my knowledge in Angular
   <br>
-  👨‍💻 All of my projects are available at <a href="https://amadsalmon.github.io/">amadsalmon.github.io</a> <i>(coming soon)</i>  
+  📁 All of my projects are available at <a href="https://amadsalmon.github.io/">amadsalmon.github.io</a> <i>(coming soon)</i>
   <br>
   📫 How to reach me: <a href="mailto:amad.salmon@icloud.com?subject=Hey%20Amad!" target="_blank">amad.salmon@icloud.com</a>
 </p>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank"> <img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=000000" alt="java" width="40" height="40"/> </a> 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=000000" alt="javascript" width="40" height="40"/> </a> 
-  <!-- Swift -->
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://icongr.am/devicon/swift-plain.svg?size=128&color=000000" alt="swift" width="40" height="40"/> </a> 
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank"> <img src="https://icongr.am/devicon/php-plain.svg?size=128&color=000000" alt="php" width="40" height="40"/> </a>
-  <!-- React -->
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/simple/react.svg?size=128&color=000000" alt="react" width="40" height="40"/> </a> 
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=000000" alt="html5" width="40" height="40"/> </a> 
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=000000" alt="css3" width="40" height="40"/> </a> 
+  <!-- PHP -->
+  <a href="https://www.php.net" target="_blank"> <img src="https://icongr.am/devicon/php-plain.svg?size=128&color=000000" alt="php" width="40" height="40"/> </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank"> <img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=000000" alt="java" width="40" height="40"/> </a> 
+  <!-- Swift -->
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://icongr.am/devicon/swift-plain.svg?size=128&color=000000" alt="swift" width="40" height="40"/> </a> 
+  
+  <!-- React -->
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/simple/react.svg?size=128&color=000000" alt="react" width="40" height="40"/> </a> 
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://icongr.am/devicon/c-plain.svg?size=128&color=000000" alt="c" width="40" height="40"/> </a> 
  </p> 
@@ -52,10 +55,12 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amadsalmon" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amadsalmon" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amadsalmon" height="30" width="40" /></a>
+  <!--
+  <a href="https://stackoverflow.com/users/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amadsalmon" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amadsalmon" height="30" width="40" /></a>
   <a href="https://www.behance.net/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="amadsalmon" height="30" width="40" /></a>
+  -->
 </p>
 
 <h3 align="center">Support:</h3>
