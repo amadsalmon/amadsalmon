@@ -31,12 +31,11 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=000000" alt="java" width="40" height="40"/> </a> 
   <!-- Swift -->
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://icongr.am/devicon/swift-plain.svg?size=128&color=000000" alt="swift" width="40" height="40"/> </a> 
-  
   <!-- React -->
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/simple/react.svg?size=128&color=000000" alt="react" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/simple/react.svg?size=128&color=000000" alt="react" width="40" height="40"/> </a> 
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://icongr.am/devicon/c-plain.svg?size=128&color=000000" alt="c" width="40" height="40"/> </a> 
- </p> 
+</p> 
  
 <h3 align="center">Tools:</h3>
 <p align="center">  
@@ -56,11 +55,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amadsalmon" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amadsalmon" height="30" width="40" /></a>
-  <!--
-  <a href="https://stackoverflow.com/users/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amadsalmon" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amadsalmon" height="30" width="40" /></a>
-  <a href="https://www.behance.net/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="amadsalmon" height="30" width="40" /></a>
-  -->
+  
+  <!-- <a href="https://stackoverflow.com/users/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amadsalmon" height="30" width="40" /></a> -->
+  <!-- <a href="https://www.hackerrank.com/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amadsalmon" height="30" width="40" /></a> -->
+  <!-- <a href="https://www.behance.net/amadsalmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="amadsalmon" height="30" width="40" /></a> -->
+  
 </p>
 
 <h3 align="center">Support:</h3>
